@@ -10,11 +10,9 @@
 #### Oversampling
 ##### Naive Random Oversampling
 Balanced Accuracy Score
-
 ![image](https://user-images.githubusercontent.com/109490755/219981257-6c8363cd-6e8f-4eeb-8e46-9c907aa7e80a.png)
 
 Precision & Recall
-
 ![image](https://user-images.githubusercontent.com/109490755/219981317-d7570185-e993-4a35-bf44-7d8942e36cdd.png)
 
 ##### SMOTE Oversampling
