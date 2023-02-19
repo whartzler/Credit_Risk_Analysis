@@ -7,7 +7,8 @@
 ### Over and Undersampling to predict Credit Risk
 #### Oversampling
 ##### Naive Random Oversampling
-Naive Random Oversampling model had an accuracy rating of 64% where it detected 64% of high risk credit.  Based on the data below Precsion was high for the majority class low_risk credit and low for high_risk credit.  It was great at predicting who actually had low_risk credit and how accurate the prediction was.  Where this model faultered was recall.  It did okay at measuring both types of credit in how they were correctly classified as having low or high risk credit.
+  Naive Random Oversampling model had an accuracy rating of 64% where it detected 64% of high risk credit.  Based on the data below Precsion was high for the majority class low_risk credit and low for high_risk credit.  It was great at predicting who actually had low_risk credit and how accurate the prediction was.  
+  Where this model faultered was recall.  It did okay at measuring both types of credit in how they were correctly classified as having low or high risk credit.
 ![image](https://user-images.githubusercontent.com/109490755/219981871-1cb2d698-863e-4774-bcdc-87dd2fb4798a.png)
 
 ##### SMOTE Oversampling
