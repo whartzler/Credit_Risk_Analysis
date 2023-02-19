@@ -9,7 +9,7 @@
 ### Over and Undersampling to predict Credit Risk
 #### Oversampling
 ##### Naive Random Oversampling
-Balanced Accuracy Score
+Balanced Accuracy Score   
 ![image](https://user-images.githubusercontent.com/109490755/219981257-6c8363cd-6e8f-4eeb-8e46-9c907aa7e80a.png)
 
 Precision & Recall
