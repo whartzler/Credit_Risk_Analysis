@@ -4,18 +4,13 @@
 - Using different techniques to train and evaulate models to evaluate if a customer has good or bad credit.  Since our dataset is unbalanced we will have to use unbalanced libraries to build and evaluate the models.
 
 ## Results
-- Bulled list that describes the balance accuracy scores and the precicison and reclass scores of all ML models
-
 ### Over and Undersampling to predict Credit Risk
 #### Oversampling
 ##### Naive Random Oversampling
-Balanced Accuracy Score   
-![image](https://user-images.githubusercontent.com/109490755/219981257-6c8363cd-6e8f-4eeb-8e46-9c907aa7e80a.png)
-
-Precision & Recall
-![image](https://user-images.githubusercontent.com/109490755/219981317-d7570185-e993-4a35-bf44-7d8942e36cdd.png)
+![image](https://user-images.githubusercontent.com/109490755/219981871-1cb2d698-863e-4774-bcdc-87dd2fb4798a.png)
 
 ##### SMOTE Oversampling
+
 #### Undersampling
 #### Combination (Over & Under) Sampling using SMOTEENN
 
