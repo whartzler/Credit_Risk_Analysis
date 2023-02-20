@@ -27,10 +27,13 @@ Utilizing a combination of over and under sampling using SMOTEEN resulted in a b
 
 ### Ensemble Classifiers to predict Credit Risk
 #### Balanced Random Forest Classifier
-Balanced Rendom Forest Classifier 
+Balanced Rendom Forest Classifier had the second highest balanced accuracy score of 79% out of all the models.  This models precision score is 3% for high risk credit and 100% for low risk credit, a 2% increase over the previous models.  The Recall was also higher with 70% for high risk and 87% for low risk credit.
+
 ![image](https://user-images.githubusercontent.com/109490755/219986529-1956e8cf-6567-41ef-a8b7-321aebd36eea.png)
 
 #### Easy Ensemble AdaBoost Classifier
+Easy Ensemble AdaBoost Classifier was the most successful model with a balanced accuracy score of 93%.  The precision score also increased with a high risk at 9% and low risk again at 100%,  the high risk increased from the Ensemble Classifiers model by 7%.  The Recall scores also greatly improved with a 92% for high risk and 94% for low risk credit.
+
 ![image](https://user-images.githubusercontent.com/109490755/219986556-410fb4cf-c9c1-4fbb-8573-848909a3314f.png)
 
 ## Summary
