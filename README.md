@@ -40,3 +40,7 @@ Easy Ensemble AdaBoost Classifier was the most successful model with a balanced 
 Overall the resampling models did not do a great job at predicting high risk credit scores.  Through each model they had a precision of 1% for high risk,  this is a low score as the test came back positive but only 1% were likely to have high risk credit.  The ensemble classifiers were more accurate in accuracy, precision and recall.  
 
 The best model was clearly the Easy Ensemble AdaBoost Classifier with all higher scores in accuracy, precision and recall due to its high Balanced Accuracy score and precision and recall scores.
+
+### Resources
+credit_risk_resampling -  Notebook for Over, Under and Combination Models
+credit_risk_ensemble - Notebook for Balanced Random Forest Classifier & Easy Ensemble AdaBoost Classifier
