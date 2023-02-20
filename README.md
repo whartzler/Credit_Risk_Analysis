@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview
-- Using different techniques to train and evaulate models to evaluate if a customer has good or bad credit.  Since our dataset is unbalanced we will have to use unbalanced libraries to build and evaluate the models.
+Using different techniques to train and evaulate models to evaluate if a customer has good or bad credit.  Since our dataset is unbalanced we will have to use unbalanced libraries to build and evaluate the models.
 
 ## Results
 ### Over and Undersampling to predict Credit Risk
