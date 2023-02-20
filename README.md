@@ -27,7 +27,10 @@ Utilizing a combination of over and under sampling using SMOTEEN resulted in a b
 
 ### Ensemble Classifiers to predict Credit Risk
 #### Balanced Random Forest Classifier
+![image](https://user-images.githubusercontent.com/109490755/219986529-1956e8cf-6567-41ef-a8b7-321aebd36eea.png)
+
 #### Easy Ensemble AdaBoost Classifier
+![image](https://user-images.githubusercontent.com/109490755/219986556-410fb4cf-c9c1-4fbb-8573-848909a3314f.png)
 
 ## Summary
 - Summary of the results
