@@ -17,7 +17,11 @@ SMOTE Oversampling model had a higher accuracy score than the previous model of 
 ![image](https://user-images.githubusercontent.com/109490755/219983079-6b0c7b0b-c7de-45b1-9008-e33469b32c00.png)
 
 #### Undersampling
+![image](https://user-images.githubusercontent.com/109490755/219985460-35377990-c750-459a-9830-d21878be30fb.png)
+
 #### Combination (Over & Under) Sampling using SMOTEENN
+![image](https://user-images.githubusercontent.com/109490755/219985537-890a5f73-5739-4540-9b76-0d02f27b4e11.png)
+
 
 ### Ensemble Classifiers to predict Credit Risk
 #### Balanced Random Forest Classifier
