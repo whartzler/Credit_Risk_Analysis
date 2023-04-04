@@ -43,4 +43,5 @@ The best model was clearly the Easy Ensemble AdaBoost Classifier with all higher
 
 ### Resources
 credit_risk_resampling -  Notebook for Over, Under and Combination Models
+
 credit_risk_ensemble - Notebook for Balanced Random Forest Classifier & Easy Ensemble AdaBoost Classifier
